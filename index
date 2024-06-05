@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Assistant for Neurology</title>
+</head>
+<body>
+    <div id="gpt-assistant-container"></div>
+    <script src="https://chatgpt.com/g/g-hNI0X7dzh-legal-assistant-for-neurology/embed.js"></script>
+    <script>
+      YourGPTAssistant.init({
+        container: '#gpt-assistant-container'
+      });
+    </script>
+</body>
+</html>
